@@ -1,0 +1,11 @@
+# Ignore data folders
+Q1_Clustering/
+Q2_WebSearch/
+Q3_PageRank/
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore virtual env
+venv/
