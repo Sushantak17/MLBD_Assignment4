@@ -9,3 +9,5 @@ __pycache__/
 
 # Ignore virtual env
 venv/
+
+.DS_Store
